@@ -1,0 +1,2 @@
+#!/bin/bash
+chmodd "$olleh_mode" hello
